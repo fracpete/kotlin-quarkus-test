@@ -5,7 +5,7 @@ import krangl.*
 fun main(args : Array<String>) {
   // Read data-frame from disk
   val iris = DataFrame.readCSV(args[0])
-
+  iris.schema()
 
   // Create data-frame in memory
   val df: DataFrame = dataFrameOf(

@@ -2,6 +2,12 @@
 Testing out Kotlin [data-science libraries](https://kotlinlang.org/docs/reference/data-science-overview.html) 
 with [Quarkus](https://quarkus.io/).
 
+## Libraries
+
+* [krangl](https://github.com/holgerbrandl/krangl)
+* [krangl in 10min](https://krangl.gitbook.io/docs/getting-started/10_minutes)
+
+
 ## Compilation
 
 Use Maven 3 to compile the code:
