@@ -59,7 +59,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <kotlin.version>1.3.71</kotlin.version>    
+    <kotlin.version>1.6.0</kotlin.version>    
     <main.class>com.github.fracpete.kqt.MainKt</main.class>
   </properties>
 
